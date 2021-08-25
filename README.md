@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @alessandra22, good English skills and good knowledge of C, Java, Python and Kotlin
+- 👀 I’m interested in Programming and Data Analysis
+- 🌱 I’m currently learning Web Programming
+- 📫 How to reach me www.linkedin.com/in/alessandra-cosenza
